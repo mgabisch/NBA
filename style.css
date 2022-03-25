@@ -1,0 +1,94 @@
+*{
+    font-family: 'Tinos', sans-serif;
+    line-height: 2.5;
+}
+
+body{
+    background: white url("bilder/hintergrund.jpg")fixed; 
+    margin: 0;
+}
+
+h1{
+    width: 50%;
+    margin: 40px auto;
+    padding:1.5% 20%;  
+}
+
+h2{
+    width: 20%;
+    margin: 120px auto;
+    padding:1.5% 20%; 
+}
+
+
+h1,h2{
+    color: black;
+    text-align: center;  
+    box-shadow: 2px 2px 5px #666;
+  
+}
+
+
+.probe{
+  
+}
+
+.flags{
+    text-align: center;
+    
+}
+
+
+.flags a { 
+    margin: 6px;    
+    
+}
+
+
+
+.header{
+    
+    text-align: center;
+    justify-content: flex-end;
+    margin: 80px auto;
+    
+    
+}
+
+.searchbar input{
+    box-shadow: 2px 2px 5px #666;  
+    line-height: 3.5;
+    text-align: center;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.navigation{
+    color: black;
+    box-shadow: 2px 2px 5px #666;  
+    width: 20%;
+    margin: 60px auto;
+    padding:1.0% 20%;
+    
+}
+
+.navigation a{ 
+    margin: 10px;
+    
+}
+
+
+
+
+
+
